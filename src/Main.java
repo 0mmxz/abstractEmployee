@@ -55,7 +55,7 @@ public class Main {
                 writer.write("Employee: " + employee.name + ", Salary: $" + employee.calculateSalary() + "\n");
             }
 
-            writer.write("\n"); // Add a newline for separation between different payroll entries
+            writer.write("\n"); 
         } catch (IOException e) {
             System.out.println("Error writing to file: " + e.getMessage());
         }
