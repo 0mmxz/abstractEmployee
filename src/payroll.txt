@@ -1,0 +1,7 @@
+Payroll generated on: ٢٠٢٤-٠٥-٠٧ ٢٠:٤٨:٣٦
+Employee: sddsdd, Salary: $1546.0
+
+Payroll generated on: ٢٠٢٤-٠٥-٠٧ ٢٠:٤٩:١٠
+Employee: jad, Salary: $8445.0
+Employee: ythtt, Salary: $5115.0
+
