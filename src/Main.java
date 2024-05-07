@@ -9,7 +9,7 @@ public class Main {
     public static void main(String[] args) throws Exception {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Enter the number of employees3:");
+        System.out.println("Enter the number of employees:");
         int numEmployees = scanner.nextInt();
 
         Employee[] employees = new Employee[numEmployees];
